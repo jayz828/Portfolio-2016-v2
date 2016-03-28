@@ -228,6 +228,7 @@ footer li {
     color: #FFFFFF;
     font-family: oswald;
     padding: 10px 20px 10px 30px;
+   
 
 }
 
@@ -246,9 +247,30 @@ footer li {
     margin-top: 40px;
     height: 30%;
     width: 40%;
-    opacity: 1.0
+    opacity: 1.0;
+   
 }
 
 .clear-floats {
     clear: left;
+}
+
+.portfolio-placeholder:hover {
+    opacity: 1.0;
+
+}
+
+#pi {
+
+    height: auto;
+    width: 20px;
+    vertical-align: bottom;
+    float: right;
+
+    
+}
+
+#pi img {
+vertical-align: bottom;
+
 }
