@@ -48,3 +48,7 @@ footer li {
 #pages {
     margin: 5%;
 }
+
+.list-title {
+    font-size: 2em;
+}
